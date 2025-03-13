@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: flask-api
+    runtime: python
+    repo: https://github.com/GustavoNTX/backend_py_ml
+    region: oregon
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: PORT
+        value: 10000
