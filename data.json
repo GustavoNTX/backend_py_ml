@@ -1,0 +1,282 @@
+[
+    {
+        "habilidade": 85,
+        "tempo_jogo": 1500,
+        "familiaridade": 90,
+        "competitividade": 80,
+        "imersao": 75,
+        "categoria": "Truegamer"
+    },
+    {
+        "habilidade": 95,
+        "tempo_jogo": 2000,
+        "familiaridade": 95,
+        "competitividade": 85,
+        "imersao": 80,
+        "categoria": "Truegamer"
+    },
+    {
+        "habilidade": 88,
+        "tempo_jogo": 1200,
+        "familiaridade": 85,
+        "competitividade": 78,
+        "imersao": 70,
+        "categoria": "Truegamer"
+    },
+    {
+        "habilidade": 90,
+        "tempo_jogo": 1800,
+        "familiaridade": 92,
+        "competitividade": 84,
+        "imersao": 82,
+        "categoria": "Truegamer"
+    },
+    {
+        "habilidade": 93,
+        "tempo_jogo": 2500,
+        "familiaridade": 97,
+        "competitividade": 88,
+        "imersao": 85,
+        "categoria": "Truegamer"
+    },
+    {
+        "habilidade": 25,
+        "tempo_jogo": 150,
+        "familiaridade": 35,
+        "competitividade": 15,
+        "imersao": 40,
+        "categoria": "Jogador Casual"
+    },
+    {
+        "habilidade": 35,
+        "tempo_jogo": 300,
+        "familiaridade": 45,
+        "competitividade": 20,
+        "imersao": 50,
+        "categoria": "Jogador Casual"
+    },
+    {
+        "habilidade": 40,
+        "tempo_jogo": 400,
+        "familiaridade": 50,
+        "competitividade": 25,
+        "imersao": 55,
+        "categoria": "Jogador Casual"
+    },
+    {
+        "habilidade": 30,
+        "tempo_jogo": 250,
+        "familiaridade": 42,
+        "competitividade": 18,
+        "imersao": 48,
+        "categoria": "Jogador Casual"
+    },
+    {
+        "habilidade": 32,
+        "tempo_jogo": 350,
+        "familiaridade": 48,
+        "competitividade": 22,
+        "imersao": 52,
+        "categoria": "Jogador Casual"
+    },
+    {
+        "habilidade": 98,
+        "tempo_jogo": 5000,
+        "familiaridade": 99,
+        "competitividade": 95,
+        "imersao": 90,
+        "categoria": "Godlike Gamer"
+    },
+    {
+        "habilidade": 94,
+        "tempo_jogo": 4500,
+        "familiaridade": 98,
+        "competitividade": 94,
+        "imersao": 89,
+        "categoria": "Godlike Gamer"
+    },
+    {
+        "habilidade": 100,
+        "tempo_jogo": 6000,
+        "familiaridade": 100,
+        "competitividade": 98,
+        "imersao": 95,
+        "categoria": "Godlike Gamer"
+    },
+    {
+        "habilidade": 92,
+        "tempo_jogo": 4800,
+        "familiaridade": 97,
+        "competitividade": 92,
+        "imersao": 88,
+        "categoria": "Godlike Gamer"
+    },
+    {
+        "habilidade": 96,
+        "tempo_jogo": 5300,
+        "familiaridade": 99,
+        "competitividade": 96,
+        "imersao": 91,
+        "categoria": "Godlike Gamer"
+    },
+    {
+        "habilidade": 55,
+        "tempo_jogo": 700,
+        "familiaridade": 65,
+        "competitividade": 70,
+        "imersao": 60,
+        "categoria": "Tryhard Gamer"
+    },
+    {
+        "habilidade": 58,
+        "tempo_jogo": 750,
+        "familiaridade": 68,
+        "competitividade": 72,
+        "imersao": 62,
+        "categoria": "Tryhard Gamer"
+    },
+    {
+        "habilidade": 60,
+        "tempo_jogo": 800,
+        "familiaridade": 70,
+        "competitividade": 75,
+        "imersao": 65,
+        "categoria": "Tryhard Gamer"
+    },
+    {
+        "habilidade": 53,
+        "tempo_jogo": 650,
+        "familiaridade": 62,
+        "competitividade": 68,
+        "imersao": 58,
+        "categoria": "Tryhard Gamer"
+    },
+    {
+        "habilidade": 52,
+        "tempo_jogo": 600,
+        "familiaridade": 61,
+        "competitividade": 65,
+        "imersao": 55,
+        "categoria": "Tryhard Gamer"
+    },
+    {
+        "habilidade": 5,
+        "tempo_jogo": 40,
+        "familiaridade": 10,
+        "competitividade": 5,
+        "imersao": 20,
+        "categoria": "Iniciante do Jogo"
+    },
+    {
+        "habilidade": 12,
+        "tempo_jogo": 60,
+        "familiaridade": 15,
+        "competitividade": 8,
+        "imersao": 25,
+        "categoria": "Iniciante do Jogo"
+    },
+    {
+        "habilidade": 8,
+        "tempo_jogo": 30,
+        "familiaridade": 12,
+        "competitividade": 6,
+        "imersao": 18,
+        "categoria": "Iniciante do Jogo"
+    },
+    {
+        "habilidade": 10,
+        "tempo_jogo": 50,
+        "familiaridade": 13,
+        "competitividade": 7,
+        "imersao": 22,
+        "categoria": "Iniciante do Jogo"
+    },
+    {
+        "habilidade": 7,
+        "tempo_jogo": 45,
+        "familiaridade": 11,
+        "competitividade": 5,
+        "imersao": 19,
+        "categoria": "Iniciante do Jogo"
+    },
+    {
+        "habilidade": 77,
+        "tempo_jogo": 1500,
+        "familiaridade": 80,
+        "competitividade": 70,
+        "imersao": 67,
+        "categoria": "Truegamer"
+    },
+    {
+        "habilidade": 80,
+        "tempo_jogo": 1700,
+        "familiaridade": 85,
+        "competitividade": 72,
+        "imersao": 73,
+        "categoria": "Truegamer"
+    },
+    {
+        "habilidade": 72,
+        "tempo_jogo": 1600,
+        "familiaridade": 75,
+        "competitividade": 68,
+        "imersao": 69,
+        "categoria": "Truegamer"
+    },
+    {
+        "habilidade": 78,
+        "tempo_jogo": 1800,
+        "familiaridade": 82,
+        "competitividade": 74,
+        "imersao": 70,
+        "categoria": "Truegamer"
+    },
+    {
+        "habilidade": 85,
+        "tempo_jogo": 1900,
+        "familiaridade": 88,
+        "competitividade": 76,
+        "imersao": 74,
+        "categoria": "Truegamer"
+    },
+    {
+        "habilidade": 15,
+        "tempo_jogo": 100,
+        "familiaridade": 20,
+        "competitividade": 10,
+        "imersao": 30,
+        "categoria": "Jogador Casual"
+    },
+    {
+        "habilidade": 25,
+        "tempo_jogo": 180,
+        "familiaridade": 30,
+        "competitividade": 15,
+        "imersao": 35,
+        "categoria": "Jogador Casual"
+    },
+    {
+        "habilidade": 20,
+        "tempo_jogo": 130,
+        "familiaridade": 25,
+        "competitividade": 12,
+        "imersao": 28,
+        "categoria": "Jogador Casual"
+    },
+    {
+        "habilidade": 28,
+        "tempo_jogo": 220,
+        "familiaridade": 33,
+        "competitividade": 18,
+        "imersao": 40,
+        "categoria": "Jogador Casual"
+    },
+    {
+        "habilidade": 18,
+        "tempo_jogo": 170,
+        "familiaridade": 22,
+        "competitividade": 13,
+        "imersao": 32,
+        "categoria": "Jogador Casual"
+    }
+]
